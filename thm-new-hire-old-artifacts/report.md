@@ -122,9 +122,6 @@ These commands altered the default action Windows Defender should take when dete
 Initial Stage  
 Suspicious executable `11111.exe` executed from the user's temporary directory.
 
-Malware Identification  
-Hash values confirmed the file was malicious via VirusTotal.
-
 Command and Control  
 The executable established an outbound network connection to IP address `2.56.59.42`.
 
