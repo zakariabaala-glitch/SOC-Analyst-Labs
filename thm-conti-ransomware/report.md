@@ -57,7 +57,7 @@ The web shell was actively used to execute commands on the system.
 
 Observed command:
 
-attirib.exe -w \\127.0.0.1\c$\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\i3gFcfK1c2.aspx
+attirib.exe -r \\\\win-aoqkg2as2q7.bellybear.local\C$\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\i3gFcfK1c2.aspx
 
 This confirms that the attacker leveraged the web shell for remote command execution.
 
